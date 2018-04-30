@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D-AMPS</string>
+    <string name="queue_name">Waiting Queue</string>
+    <string name="service_name">Poisson Generation</string>
+
+
+</resources>
